@@ -1,6 +1,6 @@
 <strong>App-holerite</strong>
 
-Aplicação cuja o mesmo mune o usuario com informacoes precisas e relevante sobre seu ordenado mensal
+Aplicação cuja o mesmo mune o usuario com informacoes precisas e relevante sobre seu ordenado mensal...
    O mesmo interage com a automação inserindo manualmente o valor que o mesmo ganha por hora + o banco de hora mensal
   Posterior a aplicação calcula as informaoes inseridas pelo usuario e retorna o valor ja subtraido dos encargos,
     imprimindo via ide o valor salarioliquido + as informaçoes detalhadas dos encargos subtraidos
