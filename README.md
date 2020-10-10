@@ -1,4 +1,4 @@
-     <strong>App-holerite</strong>
+     <strong> App-holerite </strong>
 
   /*Aplicação cuja o mesmo mune o usuario com informacoes precisas e relevante sobre seu ordenado mensal.
    * O mesmo interage com a automação inserindo manualmente o valor hora + o banco  hora mensal.
